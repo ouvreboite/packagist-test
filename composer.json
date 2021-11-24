@@ -14,5 +14,6 @@
             "email": "sponge.bob@example.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
